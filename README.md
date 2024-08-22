@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amritjot Kaur</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <ul style="list-style-type:none;">
-<li>🔭 I’m currently working on <strong>FinLearn</strong></li>
+<li>🔭 I’m currently working on <strong>eLeave-IIITG</strong></li>
 <li>🌱 I’m currently learning <strong>MERN</strong></li>
 <li>📫 How to reach me: amritjot.549@gmail.com</li>
 </ul>
